@@ -1,0 +1,87 @@
+{
+    "data": {
+      "products": [
+        {
+          "id": "cl2cw43fgxhzw0cirairhkofn",
+          "name": " Alocasia 'Portodora'",
+          "slug": "alocasia-portodora",
+          "price": 31.73,
+          "image": {
+            "url": "https://media.graphassets.com/uG8stqEwSKqSfYFpizYg"
+          }
+        },
+        {
+          "id": "cl2cw6rgxxlpu0dioebk7bd1q",
+          "name": " Croton variegatum",
+          "slug": "croton-variegatum",
+          "price": 16.61,
+          "image": {
+            "url": "https://media.graphassets.com/JmXfXPN4ScuYMBbEpSn2"
+          }
+        },
+        {
+          "id": "cl2cw95nkxlvt0diodpfdi6d5",
+          "name": " Dracaena fragrans",
+          "slug": "dracaena-fragrans",
+          "price": 28.35,
+          "image": {
+            "url": "https://media.graphassets.com/ZB7ctXuQ5uVdj629A05v"
+          }
+        },
+        {
+          "id": "cl2cwb4xevj5q0bk0qwz1t0rd",
+          "name": " Anthurium andraeanum",
+          "slug": "anthurium-andraeanum",
+          "price": 28.35,
+          "image": {
+            "url": "https://media.graphassets.com/7JETMJ9gSCGuUfwZn6UA"
+          }
+        },
+        {
+          "id": "cl2cwh5o3xg8a0akbp7mv920y",
+          "name": " Cordyline fruticosa",
+          "slug": "cordyline-fruticosa",
+          "price": 31.05,
+          "image": {
+            "url": "https://media.graphassets.com/hlCYu6hSScC6myLGd4qb"
+          }
+        },
+        {
+          "id": "cl2cwitaqxmvp0diocfeor1b0",
+          "name": "Alocasia",
+          "slug": "alocasia",
+          "price": 42.5,
+          "image": {
+            "url": "https://media.graphassets.com/yljiFsNzT5CyRUQQwa69"
+          }
+        },
+        {
+          "id": "cl2cwjlukxmzl0dio3h9p3433",
+          "name": "Yucca",
+          "slug": "yucca",
+          "price": 14.01,
+          "image": {
+            "url": "https://media.graphassets.com/fQmZTLuhTcuk88Xzucv0"
+          }
+        },
+        {
+          "id": "cl2cwl1e8vkeu0bk0zc811dua",
+          "name": "Hoya Carnosa",
+          "slug": "hoya-carnosa",
+          "price": 25.65,
+          "image": {
+            "url": "https://media.graphassets.com/t2gVo86pR6C8vlmInlFV"
+          }
+        },
+        {
+          "id": "cl2cwm1xlxn730dio0zszsvlt",
+          "name": "Scindapsus ",
+          "slug": "scindapsus",
+          "price": 16.88,
+          "image": {
+            "url": "https://media.graphassets.com/tccccJSTUmBtpZSXOKCE"
+          }
+        }
+      ]
+    }
+  }
